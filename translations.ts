@@ -2,7 +2,7 @@ import { Treatment, Language } from './types';
 
 export const images = {
   home: {
-    hero: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=2000",
+    hero: "/images/himalaya_eagle.jpg",
   },
   about: {
     hero: "https://images.unsplash.com/photo-1544168190-79c17527004f?auto=format&fit=crop&q=80&w=2400",
@@ -123,7 +123,7 @@ export const treatments: Treatment[] = [
         'In meiner Praxis destilliere ich die Wirkungsweisen der Natur in Feuer, Wasser, Erde, Luft und Äther. Ich sehe diese elementaren Qualitäten in den kardinalen Säften ausgedrückt: Blut, gelbe Galle, schwarze Galle und Schleim.'
       ]
     },
-    image: 'https://images.unsplash.com/photo-1540206276207-3af25c08abbb?auto=format&fit=crop&q=80&w=800',
+    image: '/images/back_christian_01.jpg',
     category: 'Core System',
     details: {
       addressing: { 
@@ -158,7 +158,7 @@ export const treatments: Treatment[] = [
         'Statt zu fragen: „Was macht dich krank?“, frage ich: „Was hält dich gesund – und wie kann ich dir helfen, das zu stärken?“'
       ]
     },
-    image: 'https://images.unsplash.com/photo-1518173946687-a4c8a9833d8e?auto=format&fit=crop&q=80&w=800',
+    image: '/images/HCT_bhumidhata.jpg',
     category: 'Therapy',
     details: {
       addressing: {
@@ -193,7 +193,7 @@ export const treatments: Treatment[] = [
         'Dies ermöglicht mir eine frühe Prävention, indem ich potenzielle Schwachstellen identifiziere, bevor sie für dich klinisch in Erscheinung treten.'
       ]
     },
-    image: 'https://images.unsplash.com/photo-1551601651-2a8555f1a136?auto=format&fit=crop&q=80&w=800',
+    image: '/images/auge.webp',
     category: 'Diagnostics',
     details: {
       addressing: {
